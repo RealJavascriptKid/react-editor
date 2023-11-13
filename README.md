@@ -1,3 +1,5 @@
+# DISCLAIMER - THIS IS EXTENSION OF ORIGINAL REPOSITORY BY layerhub.io. SINCE ORIGINAL REPO NO LONGER EXISTS I HAVE ADDED THIS. ALL CREDIT GOES TO layerhub.io
+
 # Design Editor
 
 If you are worrying about something like a designer tool, such as graphic editor, presentation editor, video editor, etc. Layerhub is a perfect choice for you.  
